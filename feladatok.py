@@ -1,4 +1,4 @@
-tip = input (' Milyen autó? ')
-ccm = int (input(' 1590 '))
-kilo = float (input (' 1.1 '))
-print ('Neked van'+ tip +'autód , ami'+ ccm + 'és' + kilo +'tonnás' )
+moci = input (' Neked van motorod? ')
+ccm = int (input(' Hány köbcentis? Add meg egész számként: '))
+suly = float (input (' Hány kg-os? Add meg tizedes számként: '))
+print ('Neked van'+ moci +'motorod , ami'+ ccm + 'és' + suly +'tonnás' )
