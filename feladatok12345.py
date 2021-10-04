@@ -18,19 +18,19 @@ print (' *o*o*o*o*o*o*o*o*o ')
 
 print (' 4. feladat: ')
 
-number1 = 1
+x = int (input(' szám 1: '))
 
-number2 = 2
+y = int (input(' szám 2: '))
 
-print ((number1) + (number2))
+print (x + y)
 
 
 print (' 5. feladat: ')
 
-num1 = 5
+a = int (input(' szám 1: '))
 
-num2 = 6
+b = int (input(' szám 2: '))
 
-num3 = 7
+c = int (input(' szám 3: '))
 
-print ((num1) + (num2) + (num3))
+print (a + b + c)
