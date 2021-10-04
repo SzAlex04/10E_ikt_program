@@ -61,4 +61,5 @@ x = int (input(' szám 1: '))
 y = int (input(' szám 2: '))
 
 z = float ( x / y)
+
 print ('A két szám hányadosa: ', z)
