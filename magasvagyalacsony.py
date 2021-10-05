@@ -1,8 +1,6 @@
 x = int(input(' Add meg hány centiméter magas vagy: '))
-  
-y = int(input(' Add meg hány centiméter magas vagy: '))
 
-if ( x > y ):
+if 180 :
     print(' He,te zsiráf gyerek. ')
-else:
+else :
     print(' Na, te meg törpe vagy. ')
